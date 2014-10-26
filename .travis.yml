@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: Notational.xcodeproj
+xcode_scheme: Notational
